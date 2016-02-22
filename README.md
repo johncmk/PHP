@@ -1,5 +1,5 @@
 # PHP
 Blog
 
->###Craete Blog 
+>###Create Blog 
 >>Laravel Framework
